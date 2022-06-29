@@ -1,4 +1,4 @@
-# API Python Code for Yahoo Finance Website
+# Stock-Market-Analysis-using-python
 
 ## The aim of this project was to write a python code that with the help of an Application Program Interface can fetch the entire data present on the website for a particular symbol / keyword passed in as input.
 
