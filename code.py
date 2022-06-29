@@ -21,7 +21,7 @@ for symbol in symbols:
     url = "https://yfapi.net/v7/finance/options/"+symbol
     headers = CaseInsensitiveDict()
     headers["accept"] = "application/json"
-    headers["X-API-KEY"] = "8gWOr0Pu5h8mtHMJ8l7pR6jTpKgKCriL9P6vKF2G"
+    headers["X-API-KEY"] = ""
     resp = requests.get(url, headers=headers) 
     resp = resp.json()
     #print(resp)
